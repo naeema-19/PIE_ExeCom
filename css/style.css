@@ -6582,7 +6582,8 @@ strong {
     border-radius: 45%;
     font-size: 18px;
     text-align: center;
-
+    
+    text-decoration: none;
 }
 
 
@@ -6590,7 +6591,6 @@ strong {
   background-color: white;
   transform: translateY(10px);
   color: #ff5b0b;
-  text-decoration: none;
 }
 #team h1{
   padding-top: 30px;
