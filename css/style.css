@@ -1326,6 +1326,7 @@ body {
   padding: 1.25rem; }
 
 .card-title {
+  margin-top: 0.75rem;
   margin-bottom: 0.75rem; }
 
 .card-subtitle {
@@ -6589,6 +6590,7 @@ strong {
   background-color: white;
   transform: translateY(10px);
   color: #ff5b0b;
+  text-decoration: none;
 }
 #team h1{
   padding-top: 30px;
