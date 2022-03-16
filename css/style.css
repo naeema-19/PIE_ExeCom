@@ -6597,3 +6597,11 @@ strong {
   font-weight: bolder;
   text-decoration: underline;
 }
+@media all and (max-width: 387px)
+{
+  .lset{
+   width: 12rem; 
+   height: auto;
+  }
+  
+}
