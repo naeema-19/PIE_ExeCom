@@ -6606,3 +6606,11 @@ strong {
   }
   
 }
+@media all and (max-width: 250px)
+{
+  .lset{
+   width: 10rem; 
+   height: auto;
+  }
+  
+}
