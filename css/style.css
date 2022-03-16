@@ -6596,6 +6596,7 @@ strong {
   padding-top: 30px;
   font-weight: bolder;
   text-decoration: underline;
+  font size: 2rem;
 }
 @media all and (max-width: 387px)
 {
